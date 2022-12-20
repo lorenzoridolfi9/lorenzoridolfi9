@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, i'm Lorenzo👋
+#I'm passionate about **Data Science** and __Artificial Intelligence!__
+[Check my LinkedIn profile!] (https://www.linkedin.com/in/lorenzo-ridolfi-301a9b1b6/)
+
+
 
 <!--
 **lorenzoridolfi9/lorenzoridolfi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
