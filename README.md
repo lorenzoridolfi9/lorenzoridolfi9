@@ -3,7 +3,7 @@
 
 I am a junior data scientist and have skills in data science and data analysis. I write code in **Python** and **R** and enjoy working on projects that implement machine learning and deep learning algorithms.
 
-I worked on a human __emotion recognition__ project in text :smiley: :thumbsup: :cry: :rage: :scream: :dizzy_face:
+I developed a project of recognizing humane emotion in the text :smiley: :thumbsup: :cry: :rage: :scream: :dizzy_face:
 
 
 
