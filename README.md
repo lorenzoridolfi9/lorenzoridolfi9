@@ -1,7 +1,7 @@
 ## Hi there, i'm Lorenzo ✨
 ### I'm passionate about **Data Science**, __Big Data__ and __Artificial Intelligence!__
 
-I am a junior Data Scientist and have skills in Data Science and Software Development. I write code in **Python**, **Java** and **R** and enjoy working on projects that implement machine learning and deep learning algorithms to create artificial intelligence applications.
+I am Data Scientist and have skills in Data Science and Software Development. I write code in **Python**, **Java**, **Javascript** and other languages. I enjoy working on projects that implement Machine Learning and Deep Learning algorithms to create artificial intelligence applications.
 
 I developed a project of recognizing humane emotion in the text :smiley: :thumbsup: :cry: :rage: :scream: :dizzy_face:
 
