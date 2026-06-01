@@ -2,9 +2,10 @@
 I'm a **Software Engineer** working at the intersection of backend development, data engineering, and AI. On this profile, you'll find my experiments and projects focused on building scalable, data-driven applications and robust AI systems.
 
 ### 🧠 What I'm Building Here
-* **AI & GenAI Systems:** RAG architectures, LLM orchestration and Knowledge Graph integrations.
-* **Data Engineering:** Scalable data pipelines, ETL processes and high-volume data ingestion.
-* **Backend & Infrastructure:** Clean, production-ready APIs with a focus on performance, reliability and automated CI/CD.
+
+* **Advanced AI & GenAI Systems:** Orchestrating LLMs, RAG architectures, and Knowledge Graphs, alongside custom Machine Learning and Deep Learning models for **NLP** (multilingual sentiment and emotion analysis) and **Computer Vision** (medical imaging and real-time traffic monitoring).
+* **Data Engineering & Backend:** Designing scalable data pipelines, ETL processes, and high-volume data ingestion systems, paired with clean, production-ready APIs focused on performance and reliability.
+* **Full-Stack & SaaS Solutions:** Developing complete end-to-end platforms, ranging from automated organizational event management systems to sleek financial SaaS landing pages.
 
 ### 🛠️ Tech Stack
 * **Languages:** Python, TypeScript, Java
