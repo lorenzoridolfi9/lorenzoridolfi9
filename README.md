@@ -1,18 +1,21 @@
-## Hi there, i'm Lorenzo ✨
-### I'm passionate about **Data Science**, __Big Data__ and __Artificial Intelligence!__
+# Hi there, i'm Lorenzo ✨
+I'm a **Software Engineer** working at the intersection of backend development, data engineering, and AI. On this profile, you'll find my experiments and projects focused on building scalable, data-driven applications and robust AI systems.
 
-I am Data Scientist and have skills in Data Science and Software Development. I write code in **Python**, **Java**, **Javascript** and other languages. I enjoy working on projects that implement Machine Learning and Deep Learning algorithms to create artificial intelligence applications.
+### 🧠 What I'm Building Here
+* **AI & GenAI Systems:** RAG architectures, LLM orchestration and Knowledge Graph integrations.
+* **Data Engineering:** Scalable data pipelines, ETL processes and high-volume data ingestion.
+* **Backend & Infrastructure:** Clean, production-ready APIs with a focus on performance, reliability and automated CI/CD.
 
-I developed a project of recognizing humane emotion in the text :smiley: :thumbsup: :cry: :rage: :scream: :dizzy_face:
+### 🛠️ Tech Stack
+* **Languages:** Python, TypeScript, Java
+* **Frameworks & Tools:** FastAPI, Node.js, Vue.js, Angular, AWS, LLMs
 
 
+### 📬 Let's Connect
 
+* 💼 [check my LinkedIn profile!](https://www.linkedin.com/in/lorenzo-ridolfi-301a9b1b6/)
 
-How to reach me:
-
-* [check my LinkedIn profile!](https://www.linkedin.com/in/lorenzo-ridolfi-301a9b1b6/)
-
-* ridolfilorenzo6@gmail.com
+* 📧 ridolfilorenzo6@gmail.com
 
 
 
